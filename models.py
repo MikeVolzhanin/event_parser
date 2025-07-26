@@ -6,7 +6,6 @@ class EventModel(BaseModel):
     source: str
     channel_name: str
     post_date: datetime
-    campus: str
     url: str
     raw_text: str
 
