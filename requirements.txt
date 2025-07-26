@@ -1,0 +1,8 @@
+telethon==1.33.1
+vk_api==11.9.9
+dateparser==1.2.0
+pydantic==2.7.3
+natasha==1.6.0
+python-dotenv==1.0.1
+
+requests~=2.32.4
